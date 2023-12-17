@@ -1,0 +1,7 @@
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_07\Task_02\bin\Debug\Task_02.exe.config
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_07\Task_02\bin\Debug\Task_02.exe
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_07\Task_02\bin\Debug\Task_02.pdb
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_07\Task_02\obj\Debug\Task_02.csproj.AssemblyReference.cache
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_07\Task_02\obj\Debug\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_07\Task_02\obj\Debug\Task_02.exe
+C:\Users\iceco\OneDrive\Рабочий стол\Lab_07\Task_02\obj\Debug\Task_02.pdb
